@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **arathbundev@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE_nYxRjaM/OgzUCCv3PgOrjAraIHCoWw/edit?utm_content=DAE_nYxRjaM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton https://angel.co/u/adam-rathbun](https://www.canva.com/design/DAE_nYxRjaM/OgzUCCv3PgOrjAraIHCoWw/edit?utm_content=DAE_nYxRjaM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton https://angel.co/u/adam-rathbun)
+- 📄 Know about my experiences [resume: shorturl.at/clCO2 Angel List: shorturl.at/bBDF5](resume: shorturl.at/clCO2 Angel List: shorturl.at/bBDF5)
 
 - ⚡ Fun fact **Former bowl-cut**
 
