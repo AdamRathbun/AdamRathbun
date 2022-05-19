@@ -3,9 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [arathbun.me](arathbun.me)
 
+- Angel List [shorturl.at/bBDF5](shorturl.at/bBDF5)
+
 - 📫 How to reach me **arathbundev@gmail.com**
 
-- 📄 Know about my experiences [resume: shorturl.at/clCO2 Angel List: shorturl.at/bBDF5](resume: shorturl.at/clCO2 Angel List: shorturl.at/bBDF5)
+- 📄 Know about my experiences [shorturl.at/clCO2](shorturl.at/clCO2)
 
 - ⚡ Fun fact **Former bowl-cut**
 
