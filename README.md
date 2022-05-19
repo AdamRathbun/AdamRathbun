@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arathbundev@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/clCO2](shorturl.at/clCO2)
+- 📄 Know about my experiences [shorturl.at/oyBEN](shorturl.at/oyBEN)
 
 - ⚡ Fun fact **Former bowl-cut**
 
