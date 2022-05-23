@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [arathbun.me](arathbun.me)
 
-- Angel List [shorturl.at/bBDF5](shorturl.at/bBDF5)
+- Angel List [https://angel.co/u/adam-rathbun](https://angel.co/u/adam-rathbun)
 
 - 📫 How to reach me **arathbundev@gmail.com**
 
