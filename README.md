@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">Software engineer @100Devs. JS, Node, Express, React and MongoDB. Open to all. Currently in Ohio. Detail-orientated developer with a passion for problem solving and a background in copywriting and technical writing.</h3>
+<h3 align="center">Software engineer @100Devs. JS, Node, Express, React and MongoDB. Currently in Ohio. Detail-orientated developer with a passion for problem solving and a background in copywriting and technical writing. Open to all opportunities.</h3>
 
 - 👨‍💻 All of my projects are available at [arathbun.me](arathbun.me)
 
