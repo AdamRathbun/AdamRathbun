@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arathbundev@gmail.com**
 
-- 📄 Check out my resume https://www.canva.com/design/DAE_pMy3cXU/iP0JG-cYGLKvOwi3jeGmWg/view?
+- 📄 Check out my resume [https://www.canva.com/design/DAE_pMy3cXU/iP0JG-cYGLKvOwi3jeGmWg/view?](https://www.canva.com/design/DAFnJPqnXCA/xISZsozRL73MM8ONZfkeWw/edit?utm_content=DAFnJPqnXCA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Former bowl-cut**
 
