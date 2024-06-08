@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Software engineer. 100Devs. JS, Node, Express, React and MongoDB. Currently in Ohio. Detail-orientated developer with a passion for problem solving and a marketing background.</h3>
 
-- 👨‍💻 My portfolio is available at [arathbun.me](arathbun.me)
+- 👨‍💻 My portfolio is available at [arathbun.me]([arathbun.me](https://arathbun.me/))
 
 - Angel List [https://angel.co/u/adam-rathbun](https://angel.co/u/adam-rathbun)
 
